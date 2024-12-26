@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ansh Kumar Pandey<br>- 🔭 I’m working as Data Scientist.<br>- 📚 I'm currently learning Backend.<br>- ⚡ In my free time I Coding.</p>
+<p align="left">I'm Ansh Kumar Pandey<br>- 📚 I'm currently learning Backend.<br>- ⚡ In my free time I Coding.</p>
 
 ###
 
