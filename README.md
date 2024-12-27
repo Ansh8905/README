@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-🔭 I’m a competitive Programmer/ Problem Solver <br>🌱 I’m currently learning Backened<br>📫 How to reach me 📧 ansh23164001-d@akgec.ac.in<br>
+🔭 I’m a competitive Programmer/ Problem Solver <br>🌱 I’m currently learning Backened & ML <br>📫 How to reach me 📧 ansh23164001-d@akgec.ac.in<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansh-pandey-854398252) 
 
 # 💻 Tech Stack:
